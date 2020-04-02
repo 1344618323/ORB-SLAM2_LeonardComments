@@ -919,6 +919,9 @@ bool Initializer::ReconstructH(vector<bool> &vbMatchesInliers, cv::Mat &H21, cv:
 // |yp2 -  p1|     |0|
 // |p0 -  xp2| X = |0|
 // |xp1 - yp0|     |0|
+
+//(cxn)可以发现第三个行向量与前两个行向量线性相关
+
 // 两个点:
 // |yp2   -  p1  |     |0|
 // |p0    -  xp2 | X = |0| ===> AX = 0
