@@ -1,4 +1,4 @@
-## Leonard Chen的注释版本
+## Leonard Chen 的注释版本
 
 十分佩服ORB-SLAM的作者，非常厉害的论文与代码！
 
