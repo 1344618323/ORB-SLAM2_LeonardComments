@@ -1,14 +1,15 @@
-## Leonard Chen 的注释版本
+# Leonard Chen 的注释
 
-十分佩服ORB-SLAM的作者，非常厉害的论文与代码！
+膜拜 ORB-SLAM 的作者，非常厉害的论文与代码！
 
 同时感谢“泡泡机器人-吴博”无私开源的ppt与代码注释，对我学习ORB-SLAM大有裨益。
 
 在其基础上，依照我的理解，添加并修正了一些注释。
 
-## 更多资料请见Wiki和附件
-- Wiki 参考博客
-- 附件 参考论文、ppt以及程序
+
+---
+
+以下是原版代码 README.md 的内容
 
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
